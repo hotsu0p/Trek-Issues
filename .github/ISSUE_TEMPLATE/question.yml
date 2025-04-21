@@ -1,0 +1,11 @@
+name: Question
+description: Ask a question
+title: "Untitled question"
+labels: [question]
+assignees:
+  - MrHugger
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: "What is your question?"

@@ -1,0 +1,11 @@
+name: Suggestion
+description: Suggest a change or enhancement
+title: "Untitled suggestion"
+labels: [enhancement]
+assignees:
+  - MrHugger
+body:
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: "What is your suggestion?"
