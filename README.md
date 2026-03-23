@@ -1,53 +1,32 @@
 # Trek
-**Version:** B0.3
+**Version:** Beta 0.6
 
 ![Villager island](https://cdn.modrinth.com/data/cached_images/232dbab4329a15ac90dbd0fc27ec2d541c4177ce.jpeg)
 
-## Description
-Trek is a lightweight datapack that turns your Minecraft world into a treasure trove of discovery. Designed for explorers and builders, it adds over 100 custom structures across biomes—buried desert villages, jungle treehouses, pirate coves, and frozen ice formations—blending seamlessly into their environments with hidden loot and inspiration, all while preserving vanilla gameplay.
+Trek is a datapack that turns your Minecraft world into a treasure trove of discovery. Designed for explorers and builders, it adds over 150 custom structures across biomes, blending seamlessly into their environments, all while preserving vanilla gameplay.
 
 ### What Does Trek Add?
-- **Villages & Settlements**: Buried villages, igloo hamlets, hobbit holes, villager islands.
-- **Forts & Towers**: Birch forts, ice strongholds, mangrove watchtowers, termite hills.
-- **Camps & Wonders**: Prairie camps, sunken cities, stonehenges, spiky ice formations.
-- **Oceanic Adventures**: Floating farms, trade ships (dark oak, jungle), pirate coves.
-- **Industrial & More**: Iron factories, enchanting huts, orbital oddities in caves.
+- Large structures, such as flying or water islands, pyramids, fortresses, mansions;
+- Different houses, camps, ships, towers, ancient buildings;
+- Or very small ones, like a pork, cooking on a campfire, or ruins remained as a sign, that structure has been there;
+- Trek also overhauls **some** vanilla structures, ensuring that finding them will feel more exiting. We have plans of overhauling all vanilla structures in future.
 
 ### Features
-- **Biome-Specific**: Jungle treehouses in rainforests, snowmans in taigas.
-- **Weighted Spawning**: Rare finds like sunken cities feel special.
-- **Vanilla-Friendly**: No mods, just a datapack.
-- **Rewards**: Loot, NPC interactions, and aesthetic builds.
-
+- **Biome-Specific**: Jungle treehouses in rainforests, snowmans in taigas;
+- **Weighted Spawning**: Rare finds like sunken cities feel special;
+- **Vanilla-Friendly**: No mods, just a datapack;
+- **Higly compatible**: List of compatibilities can be found on our [wiki](https://trek-2.gitbook.io/trek/compatibilities).
 
 ![Village at sunset](https://cdn.modrinth.com/data/cached_images/ead97d38ff61a99fe5a93245edcfd9c682494798.jpeg)
 
 
 ### Why Download Trek?
-Perfect for survivalists seeking challenges, nomads hunting ruins, or builders wanting inspiration. Sail to deep ocean islands, uncover frozen trees, or trade in lush savannas—all in vanilla Minecraft!
+Perfect for survivalists seeking challenges, nomads hunting ruins, or builders wanting inspiration. Sail to ocean islands, uncover frozen trees, or trade in lush savannas — all in vanilla Minecraft!
 
-## Installation
-1. Download Trek.
-2. Place it in `saves/[world_name]/datapacks`.
-3. Relaunch or add before creating a world.
+[![Ko-fi Button](https://cdn.modrinth.com/data/cached_images/276e6f0c5acd4735f82da0219ef160a48e4cd843.gif 'Ko-fi Support Button')](https://ko-fi.com/hotsuop)
 
-## Dependencies
-None—no mods needed!
+<small> *Donations help us to keep the mod up to date and develop new features! </small>
 
-## Credits
-- **Author:** [Hotsu0p](https://modrinth.com/user/hotsu0p)
-- **Support:** Discord (hotsuop).
-
-## Reporting Issues + Collaboration
-- DM hotsuop on Discord.
-- Join [Discord server](https://discord.gg/tkyANZeXRN).
-- Submit issues at [GitHub](https://github.com/hotsu0p/Trek-Issues/issues).
-- **Recruitment**: Seeking datapack devs/builders—DM hotsuop.
-
-## Donating
-Contact hotsuop on Discord to support Trek.
-
-## License
-MIT License.
+### Check out our [wiki](https://trek-2.gitbook.io/trek) for more information.
 
 Enjoy your Trek adventure!
